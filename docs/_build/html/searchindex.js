@@ -1,1 +1,0 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,zoekpagina:0},titles:["Welcome to Python &#64; CoderDojo Gent\u2019s documentation!"],titleterms:{and:0,coderdojo:0,documentation:0,gent:0,indices:0,python:0,tables:0,welcom:0}})

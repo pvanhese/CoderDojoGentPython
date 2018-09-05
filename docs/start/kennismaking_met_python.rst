@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Kennismaking met Python |level1|
-================================
+Kennismaking met Python
+=======================
 
-Bron: Aagje Reynders
+:Niveau: |level1|
+:Bron: Aagje Reynders
 
 
 Wat zal je leren?
@@ -27,16 +28,20 @@ Wat heb je nodig?
 * Een Python-editor, bv. IDLE.
   IDLE kan je openen vanuit het Start-menu: "IDLE (Python 3.7 64 bit)".
   Dit toont de "Python 3.7.0 Shell". De editor open je door een nieuw
-  bestand aan te maken via :menuselection:`File --> New File`
+  bestand aan te maken via :menuselection:`File --> New File`.
 
 
-Oefeningen
-----------
+Aan de slag
+-----------
 
-Zie `Kennismaking met Python [Kennismaking met Python.pdf]`_ (door Aagje
-Reynders).
+.. image:: kennismaking_titel.png
+   :alt: Kennismaking
+   :align: center
 
-.. _Kennismaking met Python [Kennismaking met Python.pdf]: https://drive.google.com/file/d/1s12L4sIU-WU-DM0DNQ_s6aBhFoMWQjMD
+Zie `Kennismaking met Python [Kennismaking met Python.pdf]`_
+(Aagje Reynders).
+
+Inhoudstafel:
 
 1. Toon tekst op het scherm m.b.v. :code:`print`
 2. Toon je naam op het scherm waarbij je een variabel gebruikt
@@ -46,9 +51,12 @@ Reynders).
 6. Beheer lijst van deelnemers
 7. Teken ovalen op het scherm
 
+.. _Kennismaking met Python [Kennismaking met Python.pdf]: https://drive.google.com/file/d/1s12L4sIU-WU-DM0DNQ_s6aBhFoMWQjMD
 
-Extra oefeningen
-----------------
+
+
+Extra
+-----
 
 1. Gebruik willekeurige kleur voor ovalen
 2. Maak een gokspelletje waarbij je een willekeurig getal probeert te raden

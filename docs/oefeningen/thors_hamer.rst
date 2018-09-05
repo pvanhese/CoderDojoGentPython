@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Thors hamer |level1|
-====================
+Thors hamer
+===========
 
-Bron: `pythoncourse`_ van Yannick Clybouw
+:Niveau: |level1|
+:Bron: `pythoncourse`_ van Yannick Clybouw
 
 .. _pythoncourse: https://bitbucket.org/lostunicorn/pythoncourse
 

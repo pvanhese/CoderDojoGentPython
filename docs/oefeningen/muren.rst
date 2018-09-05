@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Raak de muren niet aan! |level1|
-================================
+Raak de muren niet aan!
+=======================
 
-Bron: `pythoncourse`_ van Yannick Clybouw
+:Niveau: |level1|
+:Bron: `pythoncourse`_ van Yannick Clybouw
 
 .. _pythoncourse: https://bitbucket.org/lostunicorn/pythoncourse
 

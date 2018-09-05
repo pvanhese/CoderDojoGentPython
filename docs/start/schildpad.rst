@@ -1,16 +1,16 @@
 .. include:: /global.rst
 
-Schildpad |level1|
-==================
+Schildpad
+=========
 
-Bron oefeningen: `Python opdrachtjes [Python_beginner_opdrachtjes_Turtle.pdf]`_
-door Johan Vereecken
-
+:Niveau: |level1|
+:Bronnen: `Codingkids`_, Johan Vereecken
 
 Doel
 ----
 
-Maken van figuren in Python m.b.v. de Python schildpad (*Turtle*).
+Maken van diverse figuren in Python
+door het bewegen van de Python schildpad (*Turtle*) over het scherm.
 
 .. image:: parallellogrammen_en_ster.png
    :alt: Parallellogrammen en ster
@@ -24,7 +24,7 @@ Wat heb je nodig?
 * Een Python-editor. In deze opdrachten gebruiken we `IDLE`_.
   IDLE kan je openen vanuit het Start-menu: "IDLE (Python 3.7 64 bit)".
   Dit toont de "Python 3.7.0 Shell". De editor open je door een nieuw
-  bestand aan te maken via :menuselection:`File --> New File` (zie verder)
+  bestand aan te maken via :menuselection:`File --> New File` (zie verder).
 
 .. _IDLE: https://docs.python.org/3/library/idle.html
 
@@ -32,23 +32,36 @@ Wat heb je nodig?
 Wat zal je leren?
 -----------------
 
-* Verband tussen Scratch en Python
 * Gebruik van de Python-omgeving IDLE
 * Gebruik van variabelen
 * :code:`for`, :code:`while`
 * Mogelijke opdrachten (*commands*) voor de schildpad
+* Verband tussen Scratch en Python
+
+
+Aan de slag
+-----------
+
+.. image:: schildpad_IDLE.png
+   :alt: Schildpad + IDLE
+   :align: center
+
+Zie `Programmeren met Python`_ op `Codingkids`_.
+
+.. _Programmeren met Python: https://codingkids.nl/python-lessen.html
+.. _Codingkids: https://codingkids.nl/
 
 
 
-Oefeningen
-----------
+Extra
+-----
 
-Zie `Python opdrachtjes [Python_beginner_opdrachtjes_Turtle.pdf]`_ voor de
-oefeningen en de bijhorende uitleg.
+Zie `Python opdrachtjes [Python_beginner_opdrachtjes_Turtle.pdf]`_
+(Johan Vereecken).
 
 .. _Python opdrachtjes [Python_beginner_opdrachtjes_Turtle.pdf]: https://drive.google.com/file/d/0B1R4ph67gGq2MGlPX24wdmM0SGM
 
-Overzicht:
+.. Overzicht:
    1. Vierkant tekenen
    2. Ster tekenen
    3. Parallellogram tekenen
@@ -59,13 +72,6 @@ Overzicht:
    8. Kleuren red, green, blue
    9. Random (willekeurig)
    10. Graphics voorbeelden
-
-Zie ook `Programmeren met Python`_ op `Codingkids`_ met extra uitleg en
-oefeningen voor de Python schildpad.
-
-.. _Programmeren met Python: https://codingkids.nl/python-lessen.html
-.. _Codingkids: https://codingkids.nl/
-
 
 
 Nuttige links

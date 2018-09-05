@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Vlucht door de stad |level2|
-============================
+Vlucht door de stad
+===================
 
-Bron: `pythoncourse`_ van Yannick Clybouw
+:Niveau: |level2|
+:Bron: `pythoncourse`_ van Yannick Clybouw
 
 .. _pythoncourse: https://bitbucket.org/lostunicorn/pythoncourse
 

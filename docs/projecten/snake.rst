@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Spelletjes maken in pygame: Snake |level3|
-==========================================
+Snake
+=====
 
-Bron: Aagje Reynders
+:Niveau: |level2|
+:Bron: Aagje Reynders
 
 
 Doel
@@ -34,18 +35,23 @@ Wat heb je nodig?
 
 * Een werkende Python-installatie (inclusief pygame)
   (zie :doc:`/start/installatie`)
-* Basiskennis Python (zie :ref:`starten-met-python` en :ref:`oefeningen`)
+* Basiskennis Python (zie :ref:`starten-met-python`)
 
 
-Stappen
--------
+Aan de slag
+-----------
+
+.. image:: snake_titel.png
+   :alt: Games ontwikkelen
+   :align: center
 
 Volg de stappen zoals beschreven in `Games ontwikkelen [pygame cursus.pdf]`_
-(door Aagje Reynders).
+(Aagje Reynders).
 
 .. _Games ontwikkelen [pygame cursus.pdf]: https://drive.google.com/file/d/0B-uRP0UyuNK4VlpKLVhsQVpuWUU
 
 Overzicht stappen:
+
    1. Werken met events
    2. Tekenen op het scherm: slang = rechthoek
    3. Bewegen van slang (rechthoek)

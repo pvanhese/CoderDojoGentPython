@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Koekjesmonster |level1|
-=======================
+Koekjesmonster
+==============
 
-Bron: `coderdojo-gent-pygame`_ van Yannick Clybouw
+:Niveau: |level1|
+:Bron: `coderdojo-gent-pygame`_ van Yannick Clybouw
 
 .. _coderdojo-gent-pygame: https://bitbucket.org/yclybouw/coderdojo-gent-pygame
 
@@ -26,11 +27,11 @@ Wat heb je nodig?
 
 * Een werkende Python-installatie (inclusief pygame)
   (zie :doc:`/start/installatie`)
-* De Python code voor deze oefening: `download`_ deze bestanden en plaats
+* De Python code voor deze oefening: `download deze bestanden`_ en plaats
   deze op je computer in dezelfde map waar je ook je oplossing zal aanmaken
   en bewaren
 
-.. _Download: https://bitbucket.org/yclybouw/coderdojo-gent-pygame/downloads/
+.. _download deze bestanden: https://bitbucket.org/yclybouw/coderdojo-gent-pygame/downloads/
 
 
 

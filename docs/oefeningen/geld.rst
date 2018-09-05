@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Geld uit de lucht |level1|
-==========================
+Geld uit de lucht
+=================
 
-Bron: `pythoncourse`_ van Yannick Clybouw
+:Niveau: |level1|
+:Bron: `pythoncourse`_ van Yannick Clybouw
 
 .. _pythoncourse: https://bitbucket.org/lostunicorn/pythoncourse
 

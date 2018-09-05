@@ -1,34 +1,35 @@
 .. include:: /global.rst
 
-|cdj-logo| CoderDojo Gent - Python
-==================================
+|cdj-logo| CoderDojo Gent - Python traject
+==========================================
+
+`Python <https://www.python.org/>`_
+is een leuke programmeertaal met vele mogelijkheden
+(:doc:`start/waarom_python`).
+
+* Is dit je eerste keer? Bekijk dan :ref:`starten-met-python`.
+* Heb je basis al onder de knie?
+  Bekijk dan de verschillende leuke :ref:`projecten` waarin je stap voor stap
+  leert hoe je spelletjes kan maken met Python en pygame.
+  Of gebruik Python om zelf iets nieuws te maken!
+* Zit je even vast? Gebruik dan de tips in :doc:`/meer/zitjevast`
+* Wil je nog meer Python leren? Zie dan :doc:`/meer/meerpython`
+
+
+
+
+
 
 .. _starten-met-python:
 
 Starten met Python
 ------------------
 
-* :doc:`start/waarom_python`
+Installeer Python en leer Python stap voor stap.
+
 * :doc:`start/installatie`
-* :doc:`start/schildpad` |level1|
 * :doc:`start/kennismaking_met_python` |level1|
-
-
-
-.. _oefeningen:
-
-Oefeningen
-----------
-
-* :doc:`oefeningen/koekjesmonster` |level1|
-* :doc:`oefeningen/thors_hamer` |level1|
-* :doc:`oefeningen/muren` |level1|
-* :doc:`oefeningen/geld` |level1|
-* :doc:`oefeningen/bloempotten` |level1|
-* :doc:`oefeningen/geheimtaal` |level2|
-* :doc:`oefeningen/vlucht_door_de_stad` |level2|
-* :doc:`oefeningen/oxo` |level3|
-
+* Programmeer de Python :doc:`start/schildpad` |level1|
 
 
 .. _projecten:
@@ -36,21 +37,20 @@ Oefeningen
 Projecten
 ---------
 
-* :doc:`projecten/snake` |level3|
+Programmeer spelletjes m.b.v. `pygame <https://www.pygame.org/>`_.
+
+* :doc:`projecten/snake` |level2|
+* :doc:`projecten/pong` |level2|
+* 1945
 
 
+.. _tips:
 
-Hulpmiddelen
-------------
+Tips & meer
+-----------
 
-* `"Python voor kids, beginnen met programeren", Johan Vereecken, 2015 [Python_voor_kids_v1.0.1.pdf]`_.
-  Nederlandstalig boek over beginselen van het programmeren in Python,
-  specifiek voor kinderen, geschreven door Johan Vereecken, lead-coach
-  CoderDojo Mol. Bruikbaar voor zelfstudie.
-* :doc:`hulpmiddelen/links`
-
-.. _"Python voor kids, beginnen met programeren", Johan Vereecken, 2015 [Python_voor_kids_v1.0.1.pdf]: https://drive.google.com/file/d/0B3O0JyThwfynaFkxLVhYbU5mbVU
-
+* :doc:`meer/zitjevast`
+* :doc:`meer/meerpython`
 
 
 
@@ -58,25 +58,16 @@ Hulpmiddelen
    :maxdepth: 2
    :hidden:
 
-   start/waarom_python
-   start/installatie
-   start/schildpad
-   start/kennismaking_met_python
-   oefeningen/koekjesmonster
-   oefeningen/thors_hamer
-   oefeningen/muren
-   oefeningen/geld
-   oefeningen/bloempotten
-   oefeningen/geheimtaal
-   oefeningen/vlucht_door_de_stad
-   oefeningen/oxo
-   projecten/snake
-   hulpmiddelen/links
-
-
+   /start/waarom_python
+   /start/installatie
+   /start/kennismaking_met_python
+   /start/schildpad
+   /projecten/snake
+   /projecten/pong
+   /meer/zitjevast
+   /meer/meerpython
 
 .. :ref:`genindex`
-
 
 
 

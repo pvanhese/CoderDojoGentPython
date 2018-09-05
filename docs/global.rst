@@ -8,5 +8,5 @@
 
 .. |level4| image:: /level4.png
 
-
+.. include:: <isonum.txt>
 

@@ -1,9 +1,10 @@
 .. include:: /global.rst
 
-Geheimtaal |level2|
-===================
+Geheimtaal
+==========
 
-Bron: `pythoncourse`_ van Yannick Clybouw
+:Niveau: |level2|
+:Bron: `pythoncourse`_ van Yannick Clybouw
 
 .. _pythoncourse: https://bitbucket.org/lostunicorn/pythoncourse
 

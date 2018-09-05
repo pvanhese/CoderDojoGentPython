@@ -62,7 +62,7 @@ Update pip:
 
 .. code-block:: doscon
 
-   (venv37) CoderDojo> python -p pip install --upgrade pip
+   (venv37) CoderDojo> python -m pip install --upgrade pip
 
 Installeer pygame:
 

@@ -4,16 +4,25 @@ Meer Python!
 ============
 
 
-Hulpmiddelen
-------------
+Boeken
+------
 
-* `"Python voor kids, beginnen met programeren", Johan Vereecken, 2015`_.
+* `"Python voor kids, beginnen met programeren", Johan Vereecken, 2015`_
+  (gratis download).
   Nederlandstalig boek over beginselen van het programmeren in Python,
   specifiek voor kinderen,
   geschreven door Johan Vereecken (lead-coach CoderDojo Mol).
   Bruikbaar voor zelfstudie.
 
+* `"Programmeren voor kinderen - Python", Carol Vorderman, 2018.`_
+  Op de coderdojo is er een een examplaar dat je vrij kan gebruiken.
+  Je kan het ook vinden in
+  `bibliotheek De Krook of Brugse Poort <http://zoeken.gent.bibliotheek.be/detail/Carol-Vorderman/Programmeren-voor-kinderen-Python/Boek/?itemid=%7Clibrary%2Fmarc%2Fvlacc%7C10121547>`_.
+
+
+
 .. _"Python voor kids, beginnen met programeren", Johan Vereecken, 2015: https://drive.google.com/file/d/0B3O0JyThwfynaFkxLVhYbU5mbVU
+.. _"Programmeren voor kinderen - Python", Carol Vorderman, 2018.: https://www.lannoo.be/en/programmeren-voor-kinderen-python
 
 
 .. _extraoefeningen:

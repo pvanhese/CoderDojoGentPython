@@ -9,9 +9,11 @@ Installatie-instructies voor Python onder Mac OS X.
 Python
 ------
 
-Download en gebruik de `macOS 64-bit installer`_ voor Python 3.7.0 64 bit.
+Download en gebruik de `macOS 64-bit installer`_
+voor Python 3.7.2 64 bit
+(zie `Python Releases for Mac OS X <https://www.python.org/downloads/mac-osx/>`_ ).
 
-.. _macOS 64-bit installer: https://www.python.org/ftp/python/3.7.0/python-3.7.0-macosx10.9.pkg
+.. _macOS 64-bit installer: https://www.python.org/ftp/python/3.7.2/python-3.7.2-macosx10.9.pkg
 
 .. https://www.python.org/downloads/mac-osx/
 
@@ -23,7 +25,7 @@ Download en gebruik de `macOS 64-bit installer`_ voor Python 3.7.0 64 bit.
    .. code-block:: bash
 
       ~ user$ python3 -V
-      Python 3.7.0
+      Python 3.7.2
 
 
 
@@ -74,11 +76,13 @@ Meer uitleg is te vinden in `Pygame Installation`_.
 IPython
 -------
 
-Installeer `IPython <https://ipython.org/>`_ m.b.v. pip:
+Installeer `IPython <https://ipython.org/>`_
+(onderdeel van `Jupyter <https://jupyter.org/>`_)
+m.b.v. pip:
 
 .. code-block:: bash
 
-   (venv37) CoderDojo user$ pip install ipython
+   (venv37) CoderDojo user$ pip install jupyter
 
 
 .. admonition:: Test
@@ -86,15 +90,15 @@ Installeer `IPython <https://ipython.org/>`_ m.b.v. pip:
    .. code-block:: bash
 
       (venv37) CoderDojo user$ ipython -V
-      6.5.0
+      7.3.0
 
       (venv37) CoderDojo user$ ipython
 
    ::
 
-      Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+      Python 3.7.2 (...)
       Type 'copyright', 'credits' or 'license' for more information
-      IPython 6.5.0 -- An enhanced Interactive Python. Type '?' for help.
+      IPython 7.3.0 -- An enhanced Interactive Python. Type '?' for help.
 
       In [1]: print("Hi!")
       Hi!
@@ -142,14 +146,14 @@ In je virtuele omgeving, installeer Cython en Kivy m.b.v. pip:
 
    ::
 
-      Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
-      [Clang 6.0 (clang-600.0.57)] on darwin
+      Python 3.7.2 (...)
+      [Clang ...] on darwin
       Type "help", "copyright", "credits" or "license" for more information.
       >>> import kivy
       [INFO   ] [Logger      ] Record log in /Users/user/.kviy/logs/...txt
-      [INFO   ] [Kivy        ] v1.10.1
-      [INFO   ] [Python      ] v3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
-      [Clang 6.0 (clang-600.0.57)]
+      [INFO   ] [Kivy        ] v...
+      [INFO   ] [Python      ] v3.7.2 (...)
+      [Clang ...]
 
    Sluit met :kbd:`Ctrl-D`.
 

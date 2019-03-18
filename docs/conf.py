@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Python @ CoderDojo Gent'
-copyright = '2018, Peter Van Hese'
+copyright = '2018 - 2019, Peter Van Hese'
 author = 'Peter Van Hese'
 
 # The short X.Y version

@@ -1,6 +1,6 @@
 .. include:: /global.rst
 
-|cdj-logo| CoderDojo Gent - Python traject
+|cdj-logo| CoderDojo Gent - Python-traject
 ==========================================
 
 `Python <https://www.python.org/>`_
@@ -156,8 +156,8 @@ Enkele tips voor wanneer je vast zit:
 Links
 -----
 
-CoderDojos
-~~~~~~~~~~
+CoderDojo's
+~~~~~~~~~~~
 
 * `CoderDojo België <http://www.coderdojobelgium.be/nl>`_
 * `CoderDojo Gent <http://gent.coderdojobelgium.be/home>`_

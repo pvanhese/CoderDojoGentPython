@@ -109,7 +109,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PythonCoderDojoGentdoc'
+htmlhelp_basename = 'CoderDojoGentPython'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -136,7 +136,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PythonCoderDojoGent.tex', 'Python @ CoderDojo Gent Documentation',
+    (master_doc, 'CoderDojoGentPython.tex', 'Python @ CoderDojo Gent',
      'Peter Van Hese', 'manual'),
 ]
 
@@ -146,7 +146,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pythoncoderdojogent', 'Python @ CoderDojo Gent Documentation',
+    (master_doc, 'coderdojogentpython', 'Python @ CoderDojo Gent',
      [author], 1)
 ]
 
@@ -157,8 +157,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PythonCoderDojoGent', 'Python @ CoderDojo Gent Documentation',
-     author, 'PythonCoderDojoGent', 'One line description of project.',
+    (master_doc, 'CoderDojoGentPython', 'Python @ CoderDojo Gent',
+     author, 'CoderDojoGentPython', 'One line description of project.',
      'Miscellaneous'),
 ]
 

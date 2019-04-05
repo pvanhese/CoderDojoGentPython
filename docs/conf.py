@@ -185,3 +185,6 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
+
+def setup(app):
+    app.add_stylesheet('css/custom.css')

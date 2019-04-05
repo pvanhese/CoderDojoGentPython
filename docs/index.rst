@@ -9,7 +9,7 @@ is een leuke programmeertaal met vele mogelijkheden
 
 In :ref:`starten-met-python` maak je kennis met Python.
 Eens je de basis onder de knie hebt, ben je klaar
-om spelletjes te maken met Python en pygame (zie :ref:`projecten`).
+om bv. spelletjes te maken met Python (zie :ref:`projecten`).
 
 
 .. _starten-met-python:
@@ -17,15 +17,8 @@ om spelletjes te maken met Python en pygame (zie :ref:`projecten`).
 Starten met Python
 ------------------
 
-Is dit je eerste keer? Start dan hier.
-
-Installeer Python en leer Python stap voor stap:
-
-1. :doc:`start/installatie`
-2. :doc:`start/kennismaking_met_python` |level1|
-3. Programmeer de Python :doc:`start/schildpad` |level1|
-
 .. toctree::
+   :caption: Starten met Python
    :maxdepth: 2
    :hidden:
 
@@ -33,6 +26,46 @@ Installeer Python en leer Python stap voor stap:
    /start/installatie
    /start/kennismaking_met_python
    /start/schildpad
+
+
+Is dit je eerste keer? Start dan hier.
+Installeer Python en leer Python stap voor stap.
+
+
+.. |installatie-doc| replace:: :doc:`start/installatie`
+
+.. |installatie-thumb| image:: /start/python-logo-generic.svg
+    :width: 200px
+    :align: middle
+    :target: start/installatie.html
+    :alt: Python
+
+
+.. |kennismaking-doc| replace:: :doc:`start/kennismaking_met_python` |level1|
+
+.. |kennismaking-thumb| image:: /start/kennismaking_titel.png
+    :width: 200px
+    :align: middle
+    :target: start/kennismaking_met_python.html
+    :alt: Kennismaking
+
+
+.. |schildpad-doc| replace:: :doc:`start/schildpad` |level1|
+
+.. |schildpad-thumb| image:: /start/parallellogrammen_en_ster.png
+    :width: 200px
+    :align: middle
+    :target: start/schildpad.html
+    :alt: Schildpad
+
+
+.. rst-class:: tbl
+
++-----------------------+-----------------------+-----------------------+
+| |installatie-thumb|   | |kennismaking-thumb|  | |schildpad-thumb|     |
+|                       |                       |                       |
+| |installatie-doc|     | |kennismaking-doc|    | |schildpad-doc|       |
++-----------------------+-----------------------+-----------------------+
 
 
 
@@ -67,19 +100,8 @@ Zie dan bv. de volgende boeken:
 Projecten
 ---------
 
-Heb je de basis van Python onder de knie?
-Hier vind je verschillende leuke projecten waarin je stap voor stap
-leert hoe je spelletjes kan maken met Python en pygame.
-
-Je mag natuurlijk ook een eigen project bedenken.
-Je kan daarbij steeds hulp vragen aan een coach.
-
-Spelletjes m.b.v. `pygame <https://www.pygame.org/>`_:
-
-* :doc:`projecten/snake` |level2|
-* :doc:`projecten/pong` |level2|
-
 .. toctree::
+   :caption: Projecten
    :maxdepth: 2
    :hidden:
 
@@ -87,6 +109,39 @@ Spelletjes m.b.v. `pygame <https://www.pygame.org/>`_:
    /projecten/pong
 
 
+Heb je de basis van Python onder de knie?
+Hier vind je verschillende leuke projecten waarin je stap voor stap
+leert hoe je spelletjes kan maken met Python en pygame.
+
+Je mag natuurlijk ook een eigen project bedenken.
+Je kan daarbij steeds hulp vragen aan een coach.
+
+
+.. |snake-doc| replace:: :doc:`projecten/snake` |level2|
+
+.. |snake-thumb| image:: /projecten/snake.png
+    :width: 200px
+    :align: middle
+    :target: projecten/snake.html
+    :alt: Snake
+
+
+.. |pong-doc| replace:: :doc:`projecten/pong` |level2|
+
+.. |pong-thumb| image:: /projecten/pong.png
+    :width: 200px
+    :align: middle
+    :target: projecten/pong.html
+    :alt: Pong
+
+
+.. rst-class:: tbl
+
++-----------------------+-----------------------+
+| |snake-thumb|         | |pong-thumb|          |
+|                       |                       |
+| |snake-doc|           | |pong-doc|            |
++-----------------------+-----------------------+
 
 
 
@@ -95,19 +150,8 @@ Spelletjes m.b.v. `pygame <https://www.pygame.org/>`_:
 Extra oefeningen
 ----------------
 
-Wil je nog meer oefenen met Python? Zie dan de volgende oefeningen:
-
-* :doc:`/oefeningen/koekjesmonster` |level1|
-* :doc:`/oefeningen/thors_hamer` |level1|
-* :doc:`/oefeningen/muren` |level1|
-* :doc:`/oefeningen/geld` |level1|
-* :doc:`/oefeningen/bloempotten` |level1|
-* :doc:`/oefeningen/geheimtaal` |level2|
-* :doc:`/oefeningen/vlucht_door_de_stad` |level2|
-* :doc:`/oefeningen/oxo` |level2|
-
-
 .. toctree::
+   :caption: Extra oefeningen
    :maxdepth: 2
    :hidden:
 
@@ -119,6 +163,18 @@ Wil je nog meer oefenen met Python? Zie dan de volgende oefeningen:
    /oefeningen/geheimtaal
    /oefeningen/vlucht_door_de_stad
    /oefeningen/oxo
+
+
+Wil je nog meer oefenen met Python? Zie dan de volgende oefeningen:
+
+* :doc:`/oefeningen/koekjesmonster` |level1|
+* :doc:`/oefeningen/thors_hamer` |level1|
+* :doc:`/oefeningen/muren` |level1|
+* :doc:`/oefeningen/geld` |level1|
+* :doc:`/oefeningen/bloempotten` |level1|
+* :doc:`/oefeningen/geheimtaal` |level2|
+* :doc:`/oefeningen/vlucht_door_de_stad` |level2|
+* :doc:`/oefeningen/oxo` |level2|
 
 
 

@@ -45,7 +45,7 @@ Wil je meer Python leren door een goed boek te lezen?
 Zie dan bv. de volgende boeken:
 
 * `"Python voor kids, beginnen met programeren", Johan Vereecken, 2015`_
-  (gratis).
+  (gratis voor niet-commerciële doeleinden).
   Nederlandstalig boek over de beginselen van het programmeren in Python,
   specifiek voor kinderen,
   geschreven door Johan Vereecken (lead-coach CoderDojo Mol).

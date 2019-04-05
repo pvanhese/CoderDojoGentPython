@@ -124,8 +124,8 @@ Wil je nog meer oefenen met Python? Zie dan de volgende oefeningen:
 
 .. _zitjevast:
 
-Zit je vast?
-------------
+Zit je even vast?
+-----------------
 
 Het is normaal dat je af en toe even vast zit.
 Programmeren is ook leren oplossingen vinden.
@@ -144,6 +144,7 @@ Enkele tips voor wanneer je vast zit:
   het probleem precies is en of je er oplossingen voor vindt.
 * Vraag hulp aan je vrienden.
 * Vraag hulp aan een coach.
+* Neem een pauze.
 
 
 .. _Duck Duck Go: https://duckduckgo.com

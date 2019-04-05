@@ -173,17 +173,19 @@ Python
 .. _The Python Tutorial: https://docs.python.org/3.7/tutorial/index.html#tutorial-index
 .. _Officiële website Python: https://www.python.org/
 
-
-IDEs
-~~~~
+IDEs en editors
+~~~~~~~~~~~~~~~
 
 * `IDLE`_ (Python’s Integrated Development and Learning Environment)
   is een goede editor om kennis te maken met Python.
+
+* `Mu editor`_
 
 * `PyCharm`_ is een professionele ontwikkelomgeving die
   je kan gebruiken eens je Python al wat beter kent.
 
 .. _IDLE: https://docs.python.org/3/library/idle.html
+.. _Mu editor: https://codewith.mu/en/
 .. _PyCharm: https://www.jetbrains.com/pycharm/
 
 
